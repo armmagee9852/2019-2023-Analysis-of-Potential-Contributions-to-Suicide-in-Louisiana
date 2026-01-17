@@ -105,7 +105,7 @@ Given the shown data and correlations, the top factors with the strongest correl
 # Conclusive Storytelling
 Suicide is a deep topic that influences many families and communities around the globe. For Louisiana specifically, correlating factors such as firearm accessibility, child abuse, and poverty warrant further research in order to understand their relationship with mental health vulnerability and suicide. Through this data, it is suggested that poverty, childhood abuse, and other socioeconomic factors are associated with mental health vulnerability. Increased investigation into these factors could see a turn in the rate in the foreseeable future, as the data indicates that areas with higher economic hardship or childhood trauma are linked to mental health vulnerabilities.
 
-#Potential Solutions
+# Potential Solutions
 **For Poverty:**
 1. Promoting higher education
 2. Improved childhood nutrition
@@ -116,6 +116,11 @@ Suicide is a deep topic that influences many families and communities around the
 3. Secure firearm storage
 4. Raising minimum age & purchase
 
-
+# Sources
+- CDC WONDER
+- United Stated Census Bureau
+- County Health Rankings & Roadmaps
+- National Center For Education Statistics
+- United States Bureau of Alcohol, Tobacco, Firearms, and Explosives
 
 
