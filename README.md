@@ -1,5 +1,5 @@
 # Overview
-A detailed project going over four socioeconomic factors, ranking their correlations to suicide in Louisiana over the years 2018 to 2023. Project goes over factors such as graduation rates, poverty rates, traced firearms, and child abuse as a proxy for firearm accessibility.
+A detailed project going over four socioeconomic factors, ranking their correlations to suicide in Louisiana over the years 2019 to 2023. Project goes over factors such as graduation rates, poverty rates, traced firearms, and child abuse as a proxy for firearm accessibility.
 
 # Questions
 With our data, the questions we aim to answer are:
