@@ -94,7 +94,7 @@ Throughout the years 2019 to 2023, traced firearms have been steadily increasing
 <br/>
 <img width="532" height="241" alt="Screenshot 2026-01-17 014959" src="https://github.com/user-attachments/assets/2fb80b30-f6c2-454b-ab38-86dc7beb316f" />
 <br>
-By correlating traced firearm rates and suicide rates, we see our strongest correlation yet, a positive correlation with an r squared of about **46%** and an r of **68%**. What this is means is that in areas where firearms are more commonly traced, there are also more commonly suicides. As for our r squared of 45%, meaning almost half of the changes in the traced firearm variable fit with the changes in the suicide rate. This leaves a big room for further research, maybe to the parish or city level.
+By correlating traced firearm rates and suicide rates, we see our strongest correlation yet, a positive correlation with an r squared of about **46%** and an r of **68%**. What this means is that in areas where firearms are more commonly traced, there are also more commonly suicides. As for our r squared of 45%, meaning almost half of the changes in the traced firearm variable fit with the changes in the suicide rate. This leaves a big room for further research, maybe to the parish or city level.
 <br/>
 **Ranking**
 Given the shown data and correlations, the top factors with the strongest correlations to suicide are:
