@@ -49,7 +49,7 @@ Here, you can see both the poverty rates and age adjusted suicide rates per 100k
 <br/>
 <img width="384" height="223" alt="Suicide   Poverty Correlation" src="https://github.com/user-attachments/assets/f4a3a548-0449-4e1a-b723-b086bd11fd15" />
 <br/>
-By running a correlation between poverty rates (independent variable) and suicide rates (dependent variable) using the `=CORREL` function in Excel & charting options, we can see that we have an r-squared of **~35%** and an r of **59%**, suggesting a **moderately strong** positive correlation between the two variables. As for interpretation, this means that in areas where poverty is higher, suicide rates tend to be higher aswell. With our r-squared of ~35%, it means that ~35% of the changes in the poverty rates fits with the changes in the suicide rates with the other 65% not being explained by our model.
+By running a correlation between poverty rates (independent variable) and suicide rates (dependent variable) using the `=CORREL` function in Excel & charting options, we can see that we have an r-squared of **~35%** and an r of **59%**, suggesting a **moderately strong** positive correlation between the two variables. As for interpretation, this means that in areas where poverty is higher, suicide rates tend to be higher aswell. With our r-squared of ~35%, it means that ~35% of the changes in the poverty rates is explained by the changes in the suicide rates with the other 65% not being explained by our model.
 <br/>
 # Factor 2: Graduation Rates
 Graduation Rates have been sourced from the National Center for Education Statistics
